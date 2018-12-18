@@ -1,4 +1,5 @@
-#MarsGIS For Cesium 地图框架 类库源码
+#合并多个js文件为1个，合并多个css文件为1个（传统web前端开发人员工具）
+
 
 1、请安装NPM相关包
 npm install (建议用cnpm install)
