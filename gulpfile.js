@@ -1,8 +1,10 @@
+'use strict';
+
+// 在gulpfile中先载入gulp包，因为这个包提供了一些API
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
 var cssnano = require('gulp-cssnano'); 
-
 
 //压缩混淆 
 gulp.task('build', function () {

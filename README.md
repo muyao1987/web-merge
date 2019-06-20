@@ -11,7 +11,7 @@ npm install (建议用cnpm install)
 npm run build 
 
 
-如有问题请联系木遥QQ： 516584683
+如有问题请联系木遥QQ：346819890 微信muyao1987
  
 ---------------------------
 三维地图请点击： [http://cesium.marsgis.cn](http://cesium.marsgis.cn)
